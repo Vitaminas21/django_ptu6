@@ -1,0 +1,5 @@
+/sitaignoruosim
+.idea/
+mysite/library/__pycache__/
+mysite/library/migrations/__pycache__/
+mysite/mysite/__pycache__/
